@@ -1,2 +1,2 @@
 # hbma.preparation
-Haskell programme that facilitatest in-silico bisulfite convertion of a genome build.
+Haskell program that facilitatest in-silico bisulfite convertion of a genome build.
