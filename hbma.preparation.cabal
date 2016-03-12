@@ -26,5 +26,5 @@ executable hbma.preparation
   main-is: Main.hs
   hs-source-dirs: src
   -- other-modules:       
-  build-depends: base ==4.6.*, optparse-applicative
+  build-depends: base ==4.6.*, optparse-applicative, directory, filepath
   
